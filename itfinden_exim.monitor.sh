@@ -85,5 +85,4 @@ then
 	/sbin/service exim restart
 else
 	echo "funciona?"
-	fi
-	_____
+fi
